@@ -1,0 +1,6 @@
+https://registration-pal-circulene.apps.evans.pal.pivotal.io/users/1
+https://registration-pal-circulene.apps.evans.pal.pivotal.io/accounts?ownerId=1
+https://registration-pal-circulene.apps.evans.pal.pivotal.io/projects?accountId=1
+https://allocations-pal-circulene.apps.evans.pal.pivotal.io/allocations?projectId=1
+https://backlog-pal-circulene.apps.evans.pal.pivotal.io/stories?projectId=1
+https://timesheets-pal-circulene.apps.evans.pal.pivotal.io/time-entries?userId=1
